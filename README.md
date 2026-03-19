@@ -71,6 +71,8 @@ Click the image 😃
 <img width="954" height="727" alt="image" src="https://github.com/mgrzb451/AMproject-Bicycle_Stem/blob/main/assets/5.jpg" />
 <img width="1152" height="809" alt="image" src="https://github.com/mgrzb451/AMproject-Bicycle_Stem/blob/main/assets/6.jpg" />
 <img width="748" height="205" alt="image" src="https://github.com/mgrzb451/AMproject-Bicycle_Stem/blob/main/assets/7.jpg" />
+<img width="1152" height="896" alt="image" src="https://github.com/mgrzb451/AMproject-Bicycle_Stem/blob/main/assets/render.jpg" />
+<img width="1184" height="864" alt="image" src="https://github.com/mgrzb451/AMproject-Bicycle_Stem/blob/main/assets/render2.jpg" />
 
 
 # FEA
